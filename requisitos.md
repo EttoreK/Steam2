@@ -22,6 +22,7 @@
 	- Suporte
 	- Busca
 	- Login
+	- troféus
 >> Feedback
 	Possibilidade de avaliar o produto 
 	- avaliação
@@ -39,10 +40,15 @@
 	- código utilizado
 >> Prazo
 	Tempo para pedir um reembolso
+	- jogo
+	- usuário
 >> Troféus
 	Recompensas por realizar alguma ação no jogo
+	- jogo
+	- usuário
 >> Usuários
 	Parte que relaciona as informações do usuário
+	- login
 >> Login
 	Realizar um conecção com uma conta, através de um usuário, para a segurança
 >> Códigos
